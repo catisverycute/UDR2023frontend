@@ -1,0 +1,55 @@
+/* * {
+    color:darkseagreen;
+}
+
+p {
+    color: palevioletred;
+}
+
+h3 {
+    color: lime;
+}
+
+h4 {
+    color: darkviolet;
+}
+
+h5 {
+    color: orange;
+}
+
+.likelion {
+    color: yellowgreen;
+}
+
+.likelion2 {
+    color: red;
+}
+
+.peaches {
+    color: pink;
+}
+
+.korea {
+    color: crimson;
+}
+
+p.korea {
+    color: blue;
+}
+
+p.korea.sejong {
+    color: yellow;
+} */
+
+#korea {
+    color: yellow;
+}
+
+#sejong {
+    color: green;
+}
+
+.korea {
+    color: crimson;
+}
